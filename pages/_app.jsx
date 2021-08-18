@@ -1,4 +1,6 @@
 import "../index.css";
+import "locomotive-scroll/src/locomotive-scroll.scss";
+
 import Head from "next/head";
 import Store, { initialState } from "../store/context";
 import { useContext, useReducer } from "react";

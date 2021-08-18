@@ -1,4 +1,10 @@
 {
+  "..\\hooks\\useLocoScroll.jsx -> locomotive-scroll": {
+    "id": "./node_modules/locomotive-scroll/dist/locomotive-scroll.esm.js",
+    "files": [
+      "static/chunks/node_modules_locomotive-scroll_dist_locomotive-scroll_esm_js.js"
+    ]
+  },
   "..\\node_modules\\next\\dist\\client\\next-dev.js -> ./dev/noop": {
     "id": "./node_modules/next/dist/client/dev/noop.js",
     "files": [
